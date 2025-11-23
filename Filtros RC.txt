@@ -1,4 +1,5 @@
 tempo [ms]	Freq corte = 0.0159	Freq corte=0.0723	Freq corte = 0.1539	Freq corte1=0.1592	Freq corte2=0.1592	Freq corte = 0.3386	Freq corte=1.5915	Freq corte = 8.6828
+tempo_ms	RC1	RC2	RC3	RC4	RC5	RC6	RC7	RC8
 1	14	11	50	0	0	83	78	79
 2	14	12	50	0	0	82	75	83
 3	14	11	50	0	0	81	77	84
